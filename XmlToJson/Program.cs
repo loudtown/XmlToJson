@@ -97,7 +97,8 @@ namespace XmlToJson
 					if (arrayElement) {
 						result = parentInQuotes + ": " + WrapIn(result, "[\n", "\n]") + "\n";
 						tagName = "";
-					} else {
+					} 
+					else {
 						data = RemoveFromStart (data, tagElements [0]);
 						++distinctElementsCount;
 					}
