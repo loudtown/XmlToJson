@@ -1,0 +1,30 @@
+"persons": [
+{
+"firstName": "Иван",
+"lastName": "Иванов",
+"address":
+{
+"streetAddress": "Московское ш., 101, кв.101",
+"city": "Ленинград",
+"postalCode": "101101"
+},
+"phoneNumbers": [
+"812 123-1234",
+"916 123-4567"
+]
+},
+{
+"firstName": "Петр",
+"lastName": "Петров",
+"address":
+{
+"streetAddress": "Минский пр., 22, кв.31",
+"city": "Москва",
+"postalCode": "127123"
+},
+"phoneNumbers": [
+"495 543-6564",
+"495 134-4760"
+]
+}
+]

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<persons>
+  <person>
+    <firstName>Иван</firstName>
+    <lastName>Иванов</lastName>
+    <address>
+      <streetAddress>Московское ш., 101, кв.101</streetAddress>
+      <city>Ленинград</city>
+      <postalCode>101101</postalCode>
+    </address>
+    <phoneNumbers>
+      <phoneNumber>812 123-1234</phoneNumber>
+      <phoneNumber>916 123-4567</phoneNumber>
+    </phoneNumbers>
+  </person>
+  <person>
+    <firstName>Петр</firstName>
+    <lastName>Петров</lastName>
+    <address>
+      <streetAddress>Минский пр., 22, кв.31</streetAddress>
+      <city>Москва</city>
+      <postalCode>127123</postalCode>
+    </address>
+    <phoneNumbers>
+      <phoneNumber>495 543-6564</phoneNumber>
+      <phoneNumber>495 134-4760</phoneNumber>
+    </phoneNumbers>
+  </person>
+</persons>	
